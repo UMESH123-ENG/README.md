@@ -1,5 +1,5 @@
 # README.md
-# 🌟 Project Name
+# 🌟 minees
 
 ## 📌 Description
 A brief overview of the project and what it does.
